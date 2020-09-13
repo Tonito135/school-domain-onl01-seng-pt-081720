@@ -1,7 +1,8 @@
 # code here!
 class School
 
-  def initialize(roster)
+  def initialize(school_name)
+    @school_name = school_name
  
   
   
