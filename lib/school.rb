@@ -1,5 +1,5 @@
 # code here!
-class School
+class model
   attr_accessor :student, :grade
   attr_reader :roster
   
