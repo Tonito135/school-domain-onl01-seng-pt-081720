@@ -1,9 +1,9 @@
 # code here!
-class Model
+class School
   attr_accessor :student, :grade
   attr_reader :roster
   
-  ROSTER = []
+  ROSTERS = []
   
   def initialize(roster)
     @roster = roster
