@@ -15,7 +15,7 @@ class School
     @grade = grade
     if @roster(grade) != nil
       @roster(grade) << name
-      
+    else
  
   
   
